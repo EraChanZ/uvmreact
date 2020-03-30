@@ -1,0 +1,25 @@
+{
+  "name": "RNSelectableText",
+  "version": "1.0.0",
+  "summary": "RNSelectableText",
+  "description": "RNSelectableText",
+  "homepage": "https://github.com/Astrocoders/react-native-selectable-text",
+  "license": "MIT",
+  "authors": {
+    "author": "author@domain.cn"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/author/RNSelectableText.git",
+    "tag": "master"
+  },
+  "source_files": "RNSelectableText*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module RNSelectableText {
+  umbrella header "RNSelectableText-umbrella.h"
+
+  export *
+  module * { export * }
+}

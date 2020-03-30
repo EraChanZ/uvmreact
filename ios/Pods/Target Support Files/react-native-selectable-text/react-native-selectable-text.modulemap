@@ -1,0 +1,6 @@
+framework module react_native_selectable_text {
+  umbrella header "react-native-selectable-text-umbrella.h"
+
+  export *
+  module * { export * }
+}

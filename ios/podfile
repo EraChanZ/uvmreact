@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'UVm' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for UVm
+  pod 'Firebase'
+  pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+  pod 'RNSelectableText', :path => '../node_modules/@astrocoders/react-native-selectable-text/ios/RNSelectableText.podspec'
+  pod 'react-native-selectable-text', :path => '../node_modules/@astrocoders/react-native-selectable-text'
+
+end

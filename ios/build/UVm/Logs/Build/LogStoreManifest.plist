@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>90B1B41E-86DA-41E7-BF46-59EF54E26870</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>90B1B41E-86DA-41E7-BF46-59EF54E26870.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>UVm project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UVm</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project UVm with scheme UVm and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590588658.72853303</real>
+			<key>timeStoppedRecording</key>
+			<real>590588672.93970501</real>
+			<key>title</key>
+			<string>Building project UVm with scheme UVm and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>90B1B41E-86DA-41E7-BF46-59EF54E26870</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
